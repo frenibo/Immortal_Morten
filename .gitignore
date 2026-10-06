@@ -1,0 +1,6 @@
+node_modules/
+dist/
+
+# The bundled phaser.js is superseded by the Vite + npm setup.
+# Keep the file locally as a fallback but don't track it in git.
+phaser.js
